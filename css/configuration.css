@@ -1,6 +1,6 @@
 header {
     font-size: 30px;
-    color: rgb(184, 184, 184);
+    color: rgb(255, 0, 0);
     margin-left: 50px;
     margin-top: 70px;
 }
@@ -12,5 +12,8 @@ body {
     background-color: rgb(19, 19, 19);
     margin: 60px;
     margin-right: 1035px;
-    
+}
+
+button{
+    color: rgb(4, 0, 255);
 }
